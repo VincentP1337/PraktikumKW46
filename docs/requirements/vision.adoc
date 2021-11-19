@@ -85,10 +85,23 @@ Beispiel Produkt:
 |===
 | Name | Beschreibung | Verantwortlichkeiten
 
-| [Benennung des Stakeholder-Typs.]
-| [Kurze Beschreibung des Stakeholders.]
-| [Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
+| *Interne Stakeholder*
+| Sind Anteilhaber oder Eigentümer des Unternehmens.    
+  Können aber auch Mitarbeiter sein.
+| -liefern von Informationen 
+   - Kommunikation zwischen allen Stakeholdern
+   -der jenige der bezahlt
+    
+    Fassen Sie die wesentlichen Verantwortlichkeiten des Stakeholder mit Bezug auf das zu entwickelnde System kurz zusammen, d.h. ihr besonderen Interessen. Beispiele: Dieser Stakeholder sorgt dafür, dass das System gewartet wird / dass die angezeigten Daten aktuell sind / überwacht den Projektfortschritt / usw.]
+
+|*Externe Stakeholder*
+|Sind Kunden,Lieferanten oder sogar der Staat. Greifen von außerhalb auf das Unternehmen zu
+|-verantwortich für die Nachfrage der Produkte
+ - sowie die Regulierung 
+
 |===
+
+
 
 === Benutzerumgebung
 Beschreiben Sie die Arbeitsumgebung des Nutzers. Hier sind einige Anregungen:
